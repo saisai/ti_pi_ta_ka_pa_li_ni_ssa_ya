@@ -3,26 +3,37 @@
 ပိဋကတ္သုံးပုံ ပါဠိေတာ္ နိႆယက်မ္းမ်ား
 =======================
 
-#(၁) ပါရာဇိကဏ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ) <br />
+(၁) ပါရာဇိကဏ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
 
   https://app.box.com/s/5u3ziopcpdsdjhf184q2vjyzz5my84di
   
-#(၂) ပါစိတ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ) <br />
+(၂) ပါစိတ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
 
   https://app.box.com/s/av6wu25s8rna2ivxjcwp2c42nxnk15ug
   
-#(၃) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ပ-တြဲ
-#https://app.box.com/s/ztm8gogsu1wvvzxpatqwkem9kdo2883t
+(၃) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ပ-တြဲ
+  https://app.box.com/s/ztm8gogsu1wvvzxpatqwkem9kdo2883t
+  
 (၄) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ဒု-တြဲ
+
 https://app.box.com/s/9diupszjmepsjuw4y22ri2i72yfgva9u
+
 (၅) စူဠ၀ါပါဠိေတာ္နိႆယ(စံေက်ာင္း) ပ-တြဲ
+
 https://app.box.com/s/kslewp4ifq8rdj4i6rwu54rrtvxgxrl9
+
 (၆) စူဠ၀ါပါဠိေတာ္နိႆယ(စံေက်ာင္း) ဒု-တြဲ
+
 https://app.box.com/s/e02zudv67ux12t3yp5t0pw87glq6h10z
+
 (၇) ပရိ၀ါပါဠိေတာ္နိႆယ(သစ္ဆိမ့္မူ)
+
 https://app.box.com/s/k8zsntcznmpyzqvg8nifg3dz78l3ew7c
+
 (၈) သုတ္သီလကၡန္ပါဠိေတာ္နိႆယ(ပခုကၠဴမူ)
+
 https://app.box.com/s/tgttpbfd9ud9p8ewij9544okjyah40h2
+
 (၉) သုတ္သီလကၡန္ပါဠိေတာ္နိႆယ(ေနရင္း)
 https://app.box.com/s/wwm426bzc0kjt8965llz49eytc8py7m3
 (၁၀) သုတ္မဟာ၀ါပါဠိေတာ္နိႆယ(ပခုကၠဴ)
