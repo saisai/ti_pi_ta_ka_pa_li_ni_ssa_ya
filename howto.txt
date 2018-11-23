@@ -1,0 +1,4 @@
+git init 
+git add README.md
+git remote add origin https://github.com/saisai/ti_pi_ta_ka_pa_li_ni_ssa_ya.git
+git push -u origin master
