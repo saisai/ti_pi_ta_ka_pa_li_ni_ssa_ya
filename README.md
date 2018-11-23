@@ -2,13 +2,13 @@
 
 ပိဋကတ္သုံးပုံ ပါဠိေတာ္ နိႆယက်မ္းမ်ား
 =======================
-Share ျခင္း၊ Save ျခင္းျဖင့္ Link မေသခင္ Download လုပ္ထားသင့္ေသာ စာအုပ္မ်ားျဖစ္ပါသည္။
-(၁) ပါရာဇိကဏ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
-https://app.box.com/s/5u3ziopcpdsdjhf184q2vjyzz5my84di
-(၂) ပါစိတ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
-https://app.box.com/s/av6wu25s8rna2ivxjcwp2c42nxnk15ug
-(၃) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ပ-တြဲ
-https://app.box.com/s/ztm8gogsu1wvvzxpatqwkem9kdo2883t
+
+#(၁) ပါရာဇိကဏ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
+#https://app.box.com/s/5u3ziopcpdsdjhf184q2vjyzz5my84di
+#(၂) ပါစိတ္ပါဠိေတာ္နိႆယ(ဘုရားႀကီးမူ)
+#https://app.box.com/s/av6wu25s8rna2ivxjcwp2c42nxnk15ug
+#(၃) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ပ-တြဲ
+#https://app.box.com/s/ztm8gogsu1wvvzxpatqwkem9kdo2883t
 (၄) မဟာ၀ါပါဠိေတာ္နိႆယ(ေ၀ယံဘုံသာ) ဒု-တြဲ
 https://app.box.com/s/9diupszjmepsjuw4y22ri2i72yfgva9u
 (၅) စူဠ၀ါပါဠိေတာ္နိႆယ(စံေက်ာင္း) ပ-တြဲ
